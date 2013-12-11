@@ -9,7 +9,9 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-      "express": "3.x",
-      "jade": "*"
+    "express": "3.x",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*"
   }
 }
